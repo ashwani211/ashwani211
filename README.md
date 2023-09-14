@@ -15,7 +15,7 @@ Hey, I am Ashwani and I am a software developer. My journey began with native An
 ## 🔗 Links
 [![gmail](https://img.shields.io/badge/email-fff?style=for-the-badge&logo=gmail)](mailto:ashwanikumarsingh.varanasi@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwani-india/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://google.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ashwani211.github.io/)
 
 
 ## 🛠 Skills

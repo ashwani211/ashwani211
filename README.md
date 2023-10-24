@@ -9,7 +9,7 @@ I'm a software developer from India.
 - 💬 Contact me at ashwanikumarsingh.varanasi@gmail.com
 
 ## 🚀 About Me
-Hey, I am Ashwani and I am a software developer. My journey began with native Android applications, explored iOS and Web development and then I transitioned to flutter to explore the possibilities of creating consistent user experience across different platforms. Now, I develop Android, iOS as well as Web applications.
+Hey, I am Ashwani and I am a software developer. My journey began with native Android applications, explored iOS and Web development and then I transitioned to flutter to explore the possibilities of creating consistent user experience across different platforms. Now, I’ve transitioned to flutter to explore the possibilities of creating consistent user experience across different platforms.
 
 
 ## 🔗 Links

@@ -1,11 +1,11 @@
 # Hi there 👋
 
-I'm a Software Developer Engineer from India.
+I'm a Software Developer Engineer:
 
 - 📱 Specialized in Mobile Application Development.
 - 👨‍💻 Working with Flutter, iOS and Android Technologies.
-- 💼 I maintain Koster Waterproofing [iOS](https://apps.apple.com/in/app/koster-waterproofing/id1536775985) and [Android](https://play.google.com/store/apps/details?id=com.kosteruk.Koster) app.
-- 🔍 Currently, I’m looking for a role as a Software Developer Engineer.
+- 💼 Maintaining Koster Waterproofing [iOS](https://apps.apple.com/in/app/koster-waterproofing/id1536775985) and [Android](https://play.google.com/store/apps/details?id=com.kosteruk.Koster) app.
+- 🔍 Looking for a role as a SDE or Mobile Application Developer.
 - 💬 Contact me at ashwanikumarsingh.varanasi@gmail.com.
 
 ## 🚀 About Me

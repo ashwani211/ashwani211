@@ -1,16 +1,15 @@
 # Hi there 👋
 
-I'm a software developer from India.
+I'm a Software Developer Engineer from India.
 
-- 📱💻 I develop Android, iOS & Web applications
-- 👨‍💻 Currently, I work with [Flutter](https://flutter.dev)
-- 💼 I maintain Koster Waterproofing [iOS](https://apps.apple.com/in/app/koster-waterproofing/id1536775985) and [Android](https://play.google.com/store/apps/details?id=com.kosteruk.Koster) app
-- 🔍 Currently, I’m looking for a role as a Software Developer
-- 💬 Contact me at ashwanikumarsingh.varanasi@gmail.com
+- 📱 Specialized in Mobile Application Development.
+- 👨‍💻 Working with Flutter, iOS and Android Technologies.
+- 💼 I maintain Koster Waterproofing [iOS](https://apps.apple.com/in/app/koster-waterproofing/id1536775985) and [Android](https://play.google.com/store/apps/details?id=com.kosteruk.Koster) app.
+- 🔍 Currently, I’m looking for a role as a Software Developer Engineer.
+- 💬 Contact me at ashwanikumarsingh.varanasi@gmail.com.
 
 ## 🚀 About Me
-Hey, I am Ashwani and I am a software developer. My journey began with native Android applications, explored iOS and Web development and then I transitioned to flutter to explore the possibilities of creating consistent user experience across different platforms. Now, I’ve transitioned to flutter to explore the possibilities of creating consistent user experience across different platforms.
-
+Software Developer Engineer specialized in Mobile Application Development with 4+ years of successful software delivery experience. Expert in Flutter, Android, iOS, AWS, Firebase, Node.js, leveraging GitHub Actions for CI/CD. Journey began with native Android applications, explored iOS and Web development and then transitioned to flutter, creating consistent user experience across different platforms.
 
 ## 🔗 Links
 [![gmail](https://img.shields.io/badge/email-fff?style=for-the-badge&logo=gmail)](mailto:ashwanikumarsingh.varanasi@gmail.com)
@@ -19,7 +18,7 @@ Hey, I am Ashwani and I am a software developer. My journey began with native An
 
 
 ## 🛠 Skills
-Flutter, Dart, Java, Javascript, HTML, CSS, Firebase
+Flutter, Dart, iOS, Swift, Android, Kotlin, Java, AWS, Firebase, Git, GitHub Actions, Web, JavaScript, TypeScript, C++, Python.
 
 ## Contact
 
